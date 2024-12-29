@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Currency Exchange</string>
+    <string name="newest">تازه‌ترین اخبار ارز و طلای روز جهان</string>
+    <string name="price">قیمت طلا و ارز</string>
+    <string name="gold_price">قیمت طلا</string>
+    <string name="arz_price">قیمت ارز</string>
+    <string name="img_desk">img_desk</string>
+</resources>
